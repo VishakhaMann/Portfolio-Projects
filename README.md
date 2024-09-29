@@ -41,25 +41,25 @@ The objective of this analysis is to explore the "Bank Customer Churn" dataset t
 **Technology**: Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 **Results**: 
-**A.Gender and Churn:** Female customers have a higher churn rate (25.1%) than males (16.5%).
+**A-> Gender and Churn:** Female customers have a higher churn rate (25.1%) than males (16.5%).
 
 - **Recommendation:** Launch targeted marketing campaigns for women, such as beauty product vouchers for loyalty.
 
-**B.Geography and Churn:** Churn rates are highest in Germany (32.4%), followed by Spain (16.7%) and France (16.2%).
+**B-> Geography and Churn:** Churn rates are highest in Germany (32.4%), followed by Spain (16.7%) and France (16.2%).
 
 - **Recommendation:** Conduct localized surveys in Germany to identify pain points and offer tailored loyalty programs.
 
-**C.Age Group and Churn:** The 50-60 age group shows the highest churn (56.2%), while under-30s have the lowest (7.5%).
+**C-> Age Group and Churn:** The 50-60 age group shows the highest churn (56.2%), while under-30s have the lowest (7.5%).
 
 - **Recommendation:** Provide tailored support for older customers to assist with digital banking.
 
-**D.Number of Products and Churn:** The relationship between product count and churn needs further analysis.
+**D-> Number of Products and Churn:** The relationship between product count and churn needs further analysis.
 
 - **Recommendation:** Improve the app/website dashboard to help customers easily view their products.
 
-**E.Credit Card and Balance:** Credit card ownership & Balance does not significantly impact churn rates.
+**E-> Credit Card and Balance:** Credit card ownership & Balance does not significantly impact churn rates.
 
-**F.Activity Status and Churn:** Active customers have lower churn rates.
+**F-> Activity Status and Churn:** Active customers have lower churn rates.
 
 - **Recommendation:** Increase engagement through personalized notifications and exclusive offers, especially for older customers and women.
 
