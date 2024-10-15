@@ -80,3 +80,38 @@ The goal of this study is to gain a deeper understanding of how various contextu
 1. Economic disparities may influence student achievement, as data shows that students from households with higher incomes, who are more likely to select standard lunches, often demonstrate greater academic success. 
 2. Race/ehnicity/Gender has no major influence on the academic performance of students.
 3. Higher parental level of education has a positive impact on the academic performance of students.
+
+
+## 4.  Travel Trip Data Analysis
+**Code:** [`travel-trip-analysis.ipynb`](https://github.com/VishakhaMann/Portfolio-Projects/blob/7642a1a791e8dbbead66aa84c617ba22ee97a110/travel-trip-analysis.ipynb)
+
+**Objective**:
+To examine the effects of various characteristics on trip types and travel costs and create meaningful visualizations from the travel trip dataset.
+
+**Description**:
+The dataset utilized in this analysis includes details about travel trips, such as trip destination, start and end dates, traveler demographics (age, gender, nationality), accommodation types and costs, transportation types and costs, and trip duration.
+
+**Skills**:
+Data analysis, data visualization.
+
+**Technology**:
+Python, Pandas, Plotly, NumPy.
+
+**Results**:
+A -> Result - Average cost by accommodation type:
+Hotels and Resorts rank as the most expensive accommodation types.
+
+Recommendation of Result - A:
+Travelers looking to reduce accommodation costs should consider Airbnb or villas over hotels and resorts.
+
+B -> Result - Average cost by transportation type:
+Flights are the most common mode of transport and tend to have the highest associated costs, followed by trains.
+
+Recommendation of Result - B:
+For budget-conscious travelers, using train or alternative transportation modes can help save on travel costs.
+
+C -> Result - Number of travelers by gender:
+The dataset shows that male and female travelers are nearly equally represented, with a slight lead in trips taken by female travelers.
+
+Recommendation:
+Travel agencies can design travel packages that equally appeal to both male and female travelers, taking into account the relatively balanced distribution of genders.
