@@ -1,5 +1,5 @@
 # Portfolio-Projects
-Aspiring Data enthusiast, Seeking opportunities in Business Intelligence / Data Analysis / Data Engineering. I'm eager to join an organisation that fosters skill development and offers a positive environment for applying these skills to improve business results.
+As a passionate data professional, I'm interested in exploring opportunities in business intelligence, data analysis, or data engineering. I'm drawn to organizations that prioritize professional growth and provide a collaborative environment where I can leverage my skills to drive positive business results.
 
 In this section I will list several projects briefly describing the technology stack I used to solve cases.
 
