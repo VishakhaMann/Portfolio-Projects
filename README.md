@@ -1,7 +1,7 @@
 # Portfolio-Projects
-Aspiring Business Analyst, Seeking entry-level opportunities in Business Intelligence / Data Analysis. I'm eager to join an organisation that fosters skill development and offers a positive environment for applying these skills to improve business results.
+Aspiring Data enthusiast, Seeking opportunities in Business Intelligence / Data Analysis / Data Engineering. I'm eager to join an organisation that fosters skill development and offers a positive environment for applying these skills to improve business results.
 
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section I will list several projects briefly describing the technology stack I used to solve cases.
 
 ## 1. Market Trend Analysis
 **Code:** [`Market Trend Analysis.ipynb`](https://github.com/VishakhaMann/Portfolio-Projects/blob/aa8cad9b322f06d418d4fad911e4b3722b158236/Market%20Trend%20Analysis.ipynb)
